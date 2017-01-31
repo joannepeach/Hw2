@@ -1,9 +1,10 @@
 function setup() { 
   createCanvas(400, 400);
+  background(255);
 }
 
 function draw() {
-  background(255);
+  
   
   fill(22,33,45);
   var SmileX = (100);
